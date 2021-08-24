@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JeSch", "JeSch\JeSch.csproj", "{5379BD74-C2A7-42B1-A359-59A98EDCCEA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JeSch.Presentation.Contracts", "Presentation.Contracts\JeSch.Presentation.Contracts.csproj", "{A329AD45-CAFD-4119-824D-52BF83DC3A3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JeSch.Presentation.Wpf.Components", "Presentation.Wpf.Components\JeSch.Presentation.Wpf.Components.csproj", "{CCA96BF8-B0C2-4C76-94F6-71F70698C4C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JeSch.Reader", "JeSch.Reader.Csv\JeSch.Reader.csproj", "{1B9B2AF9-BDE1-450C-A4BA-774B9BAD0340}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5379BD74-C2A7-42B1-A359-59A98EDCCEA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5379BD74-C2A7-42B1-A359-59A98EDCCEA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5379BD74-C2A7-42B1-A359-59A98EDCCEA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5379BD74-C2A7-42B1-A359-59A98EDCCEA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A329AD45-CAFD-4119-824D-52BF83DC3A3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A329AD45-CAFD-4119-824D-52BF83DC3A3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A329AD45-CAFD-4119-824D-52BF83DC3A3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A329AD45-CAFD-4119-824D-52BF83DC3A3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCA96BF8-B0C2-4C76-94F6-71F70698C4C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCA96BF8-B0C2-4C76-94F6-71F70698C4C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCA96BF8-B0C2-4C76-94F6-71F70698C4C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCA96BF8-B0C2-4C76-94F6-71F70698C4C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B9B2AF9-BDE1-450C-A4BA-774B9BAD0340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B9B2AF9-BDE1-450C-A4BA-774B9BAD0340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B9B2AF9-BDE1-450C-A4BA-774B9BAD0340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B9B2AF9-BDE1-450C-A4BA-774B9BAD0340}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49014128-8628-4ECC-90DA-F9AA21AE9A9E}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://jjschmitz.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = JeSch\\JeSch.csproj
+		SccProjectName1 = JeSch
+		SccLocalPath1 = JeSch
+		SccProjectUniqueName2 = Presentation.Contracts\\JeSch.Presentation.Contracts.csproj
+		SccProjectName2 = Presentation.Contracts
+		SccLocalPath2 = Presentation.Contracts
+		SccProjectUniqueName3 = Presentation.Wpf.Components\\JeSch.Presentation.Wpf.Components.csproj
+		SccProjectName3 = Presentation.Wpf.Components
+		SccLocalPath3 = Presentation.Wpf.Components
+		SccProjectUniqueName4 = JeSch.Reader.Csv\\JeSch.Reader.csproj
+		SccProjectName4 = JeSch.Reader.Csv
+		SccLocalPath4 = JeSch.Reader.Csv
+	EndGlobalSection
+EndGlobal
